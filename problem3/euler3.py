@@ -1,5 +1,3 @@
-import numbers
-
 def largest_prime(num):
     largest = 0
     i = 2
